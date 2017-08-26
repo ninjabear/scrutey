@@ -1,0 +1,1 @@
+// work out if something is self describing json
